@@ -1,4 +1,4 @@
-# Deep Learning 1010: Speech
+# Deep Learning 101: Speech
 
 This repo contains the presentation of our first Deep Learning 101 talk in 2024, presented by [Alberto Abad](https://www.hlt.inesc-id.pt/wiki/index.php/Alberto_Abad_Gareta) and [Catarina Botelho](https://pt.linkedin.com/in/mcbotelho).
 
